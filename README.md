@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**RocMarshal/RocMarshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rocmarshal/rocmarshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+
+![rocmarshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocmarshal&include_all_commits=true&count_private=true&theme=cobalt)
