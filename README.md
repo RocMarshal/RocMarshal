@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - Working with flink masters(Rui, Guo, Zhu, Wei) on [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
   - Start working on
     - [FLIP-495](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
-    - [FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)(Just for UI prototype design and discussions)
+    - [FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
     - [FLIP-490 ](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
   - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
 
