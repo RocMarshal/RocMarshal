@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Apache StreamPark](https://github.com/apache/streampark) Committer
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
 - [Apache Flink](https://github.com/apache/flink) Contributor
-  - Presented [Flink 自动化运维的大规模落地实践 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
+  - Presented [Flink 易用性和稳定性在 Shopee 的优化 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
   - Worked with Joao to complete the [FLIP-239: Port JDBC Connector to FLIP-27&FLIP-143](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
   - Working with Rui, Guo, Zhu, Wei on [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
   - Start working on
