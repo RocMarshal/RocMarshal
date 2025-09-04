@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 - [Apache Flink](https://github.com/apache/flink) Contributor
   - Presented [Flink 易用性和稳定性在 Shopee 的优化 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
   - Worked with Joao to complete the [FLIP-239: Port JDBC Connector to FLIP-27&FLIP-143](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
-  - Working with Rui, Guo, Zhu, Wei on [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
-  - Start working on
-    - [FLIP-495](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
-    - [FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
-    - [FLIP-490 ](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
+  - 🔭 I’m currently working:
+    - With Rui, Guo, Zhu, Wei on [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
+    - With Matthias on [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
+    - With Matthias, Rui on [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
+    - With Qin, Wei on [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
   - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
 
+<!--
 [![RocMarshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocMarshal)](https://github.com/RocMarshal)
+-->
