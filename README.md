@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Completed
     - Presented [Flink 易用性和稳定性在 Shopee 的优化 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
     - Worked with Joao to complete the [FLIP-239: Port JDBC Connector to FLIP-27&FLIP-143](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
-    - Worked with Qin, Wei to complete [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
+    - Worked with Qin, Wei to complete the [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
   - 🔭 I’m currently working:
     - With Rui, Guo, Zhu, Wei on [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
     - With Matthias on [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
