@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <div id="github_stats" align="center">
   <div>
     <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RocMarshal&theme=github" /></a>
-    <a><img src="https://streak-stats.demolab.com?user=RocMarshal&theme=github-light&mode=weekly" alt="GitHub Streak" /></a>
   </div>
 </div>
 
