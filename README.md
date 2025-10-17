@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
+<div id="github_stats" align="center">
+  <div>
+    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RocMarshal&theme=github" /></a>
+    <a><img src="https://streak-stats.demolab.com?user=RocMarshal&theme=github-light&mode=weekly" alt="GitHub Streak" /></a>
+  </div>
+</div>
+
 ## About me
 - [Apache StreamPark](https://github.com/apache/streampark) Committer
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
