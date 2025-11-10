@@ -36,6 +36,9 @@ Here are some ideas to get you started:
     - With Matthias, Rui on [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
   - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
 
+## Acknowledgements
+
+My sincere gratitude goes to the mentors and fellow professionals in the community for their invaluable support.
 <!--
 [![RocMarshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocMarshal)](https://github.com/RocMarshal)
 -->
