@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## Acknowledgements
 
-My sincere gratitude goes to the mentors and fellow professionals in the community for their invaluable support.
+My sincere gratitude goes to the mentors and fellow professionals in the community for their support.
 <!--
 [![RocMarshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocMarshal)](https://github.com/RocMarshal)
 -->
