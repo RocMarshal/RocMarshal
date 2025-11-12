@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Worked with [Jiangjie Qin](https://github.com/becketqin), [Wei Zhong](https://github.com/WeiZhong94) to complete the [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
     - Worked with [Rui Fan](https://github.com/1996fanrui), [Yangze Guo](https://github.com/KarmaGYZ), [Zhu Zhu](https://github.com/zhuzhurk), [Wei Zhong](https://github.com/WeiZhong94) to complete [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
   - 🔭 I’m currently working:
-    - With [Matthias Pohl](https://github.com/XComp) on [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
+    - With [Matthias Pohl](https://github.com/XComp) on [FLIP-495: Support AdaptiveScheduler record and store the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
     - With [Matthias Pohl](https://github.com/XComp), [Rui Fan](https://github.com/1996fanrui) on [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
   - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
 
