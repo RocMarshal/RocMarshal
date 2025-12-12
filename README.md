@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   - 🔭 I’m currently working on:
     - [FLIP-495: Support AdaptiveScheduler record and store the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)(Reviewing...)
     - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)(Discussing...)
-    - [FLIP-339: Support Adaptive Channel Selection for Re-balance/scale StreamPartitioners](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=263425181)(POCing...)
+    - [FLIP-339: Support Adaptive Channel Selection for Re-balance/scale StreamPartitioners](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=263425181)(Ready POC & Draft but not driving...)
 
 
 ## Acknowledgements
