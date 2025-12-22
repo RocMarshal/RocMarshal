@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 
 ## About me
-- [Apache StreamPark](https://github.com/apache/streampark) Committer
-  - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
+
 - [Apache Flink](https://github.com/apache/flink) Committer
   - Completed
     - Presented [Flink 易用性和稳定性在 Shopee 的优化 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
@@ -59,6 +58,9 @@ Here are some ideas to get you started:
        | POC | FLIP | discuss | voting | coding | review |
        |:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
        | ✅ | ✅ | ⏳ | todo | todo | todo |
+
+- [Apache StreamPark](https://github.com/apache/streampark) Committer
+  - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
 
 ## Acknowledgements
 My sincere gratitude goes to the mentors and reviewers in the community for their support.
