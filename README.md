@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - [Apache Flink](https://github.com/apache/flink) Committer
   - Completed
-    - Presented [Flink 易用性和稳定性在 Shopee 的优化 on Flink Forward Asia 2023](https://developer.aliyun.com/article/1385893).
+    - Presented [Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023](https://asia.flink-forward.org/beijing-2023).
     - [FLIP-239: Port JDBC Connector Source to FLIP-27](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
     - [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
     - [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
