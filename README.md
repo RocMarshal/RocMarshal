@@ -74,23 +74,12 @@ Here are some ideas to get you started:
     - [Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
     - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
   - I’m currently working on:
-    - [FLIP-495: Support AdaptiveScheduler record and store the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)
     
-       | POC | FLIP | discuss | voting | coding | review |
-       |:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
-       | ✅ | ✅ | ✅ | ✅ | ✅ | ⏳(2/6) |
-
-    - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)
-    
-       | POC | FLIP | discuss | voting | coding | review |
-       |:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
-       | ✅ | ✅ | ✅ | ⏳ | todo | todo |
-
-    - [FLIP-339: Support Adaptive Partition Selection for StreamPartitioner](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=263425181)
-      
-       | POC | FLIP | discuss | voting | coding | review |
-       |:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
-       | ✅ | ✅ | ⏳ | todo | todo | todo |
+       |FLIP Name| POC | FLIP | discuss | voting | coding | review |
+       |:-------:|:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
+       | [FLIP-495: Support AdaptiveScheduler record and store the rescale history](https://cwiki.apache.org/confluence/display/FLINK/FLIP-495%3A+Support+AdaptiveScheduler+record+and+query+the+rescale+history?src=contextnavpagetreemode)     |   ✅  |    ✅   |   ✅      |    ✅    |    ✅     | ⏳(2/6) |
+       |[FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode)| ✅ | ✅ | ✅ | ⏳ | todo | todo |      
+       |[FLIP-339: Support Adaptive Partition Selection for StreamPartitioner](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=263425181)| ✅ | ✅ | ⏳ | todo | todo | todo |
 
 - [Apache StreamPark](https://github.com/apache/streampark)
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
