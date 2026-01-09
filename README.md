@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <div>
     <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="34" height="15.18" /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
     <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="40" height="15" /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
-    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="34" height="15" /> <a href="https://asia.flink-forward.org/beijing-2023"> Presentation on Flink Forward Asia 2023</a></div>
+    <!-- <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="34" height="15" /> <a href="https://asia.flink-forward.org/beijing-2023"> Presentation on Flink Forward Asia 2023</a></div>-->
   </div>
 </div>
 
