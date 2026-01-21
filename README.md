@@ -68,25 +68,15 @@ Here are some ideas to get you started:
 - [Apache Flink](https://github.com/apache/flink)
   - Completed
     - Presented [Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023](https://asia.flink-forward.org/beijing-2023).
-    - [FLIP-239: Port JDBC Connector Source to FLIP-27](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
-    - [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
-    - [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
+    - [FLIP-239](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271) & [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling) & [FLIP-490​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857) & [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
     - [Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
-    - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
+  
   - I’m currently working on:
-       |FLIP Name| coding | review |
-       |:-------|:--------:|:--------:|
-       |[FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) |     ✅     | ⏳(0/2) |
-       |[FLIP-495](https://cwiki.apache.org/confluence/x/TQr0Ew) |     ✅     | ⏳(2/6) |
-       |[FLIP-487](https://cwiki.apache.org/confluence/x/vZCMEw) |     ⏳     |   todo  |      
+    - [FLIP-339 in review](https://cwiki.apache.org/confluence/x/nYyzDw) & [FLIP-495 in review](https://cwiki.apache.org/confluence/x/TQr0Ew) & [FLIP-487 blocked by FLIP-495](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
 - [Apache StreamPark](https://github.com/apache/streampark)
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
-  - Completed
-    - [Proposal: StreamPark code-style-and-quality Improve](https://github.com/apache/streampark/issues/2986)
-    - [Proposal: Documentation style guide of StreamPark](https://github.com/apache/streampark/issues/3724)
-    - [Proposal: Introduce yarn queue setting to manage the queue resouce](https://github.com/apache/streampark/issues/2324)
-    - [Others contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
+  - Completed [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
 
 ## Acknowledgements
 My sincere gratitude goes to the mentors and reviewers in the community for their support.
