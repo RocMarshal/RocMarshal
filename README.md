@@ -74,11 +74,11 @@ Here are some ideas to get you started:
     - [Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
     - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
   - I’m currently working on:
-       |FLIP Name| POC | FLIP | discuss | voting | coding | review |
-       |:-------|:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
-       |[FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) |   ✅  |    ✅   |    ✅     |    ✅    |    ✅     | ⏳(0/2) |
-       |[FLIP-495](https://cwiki.apache.org/confluence/x/TQr0Ew) |   ✅  |    ✅   |    ✅     |    ✅    |    ✅     | ⏳(2/6) |
-       |[FLIP-487](https://cwiki.apache.org/confluence/x/vZCMEw) |   ✅  |    ✅   |    ✅     |    ✅    |    ⏳     |   todo  |      
+       |FLIP Name| coding | review |
+       |:-------|:--------:|:--------:|
+       |[FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) |     ✅     | ⏳(0/2) |
+       |[FLIP-495](https://cwiki.apache.org/confluence/x/TQr0Ew) |     ✅     | ⏳(2/6) |
+       |[FLIP-487](https://cwiki.apache.org/confluence/x/vZCMEw) |     ⏳     |   todo  |      
 
 - [Apache StreamPark](https://github.com/apache/streampark)
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
