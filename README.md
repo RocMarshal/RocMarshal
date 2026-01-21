@@ -76,10 +76,9 @@ Here are some ideas to get you started:
   - I’m currently working on:
        |FLIP Name| POC | FLIP | discuss | voting | coding | review |
        |:-------|:-----:|:------:|:---------:|:--------:|:--------:|:--------:|
+       |[FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) |   ✅  |    ✅   |    ✅     |    ✅    |    ✅     | ⏳(0/2) |
        |[FLIP-495](https://cwiki.apache.org/confluence/x/TQr0Ew) |   ✅  |    ✅   |    ✅     |    ✅    |    ✅     | ⏳(2/6) |
        |[FLIP-487](https://cwiki.apache.org/confluence/x/vZCMEw) |   ✅  |    ✅   |    ✅     |    ✅    |    ⏳     |   todo  |      
-       |[FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) |   ✅  |    ✅   |    ✅     |    ✅    |    ✅     | ⏳(0/2) |
-       |[FLINK-33123](https://lists.apache.org/thread/03wblncfwtvx9qnfsmd7gkfmgpglyt4m)  |   ✅  |  N.A   |    ⏳     |   todo  |  todo  | todo |
 
 - [Apache StreamPark](https://github.com/apache/streampark)
   - The Release Manager for Apache StreamPark [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
