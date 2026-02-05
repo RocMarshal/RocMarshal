@@ -69,13 +69,13 @@ Here are some ideas to get you started:
   - Completed
     - Presented [Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023](https://asia.flink-forward.org/beijing-2023).
     - [FLIP-239: Port JDBC Connector to FLIP-27&FLIP-143](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
+    - [FLIP-339: Support Adaptive Partition Selection for StreamPartitioner](https://cwiki.apache.org/confluence/x/nYyzDw)
     - [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
     - [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
     - [Others contributions](https://github.com/apache/flink/commits?author=RocMarshal)
     - [Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
   
   - I’m currently working on:
-    - [FLIP-339: Support Adaptive Partition Selection for StreamPartitioner](https://cwiki.apache.org/confluence/x/nYyzDw)
     - [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/x/TQr0Ew)
     - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
