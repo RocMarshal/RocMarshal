@@ -77,6 +77,7 @@ Here are some ideas to get you started:
     - [An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
   
   - I’m currently working on:
+    - [As a release manager for Flink 2.3](https://cwiki.apache.org/confluence/display/FLINK/2.3+Release)
     - [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/x/TQr0Ew)
     - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
