@@ -86,17 +86,17 @@ Here are some ideas to get you started:
   - [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
  
 - Contributor at
-  - [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator)
-  - [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
-  - [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc)
+  - [ray-project](https://github.com/ray-project/ray)
   - [apache spark](https://github.com/apache/pulsar)
   - [apache fluss](https://github.com/apache/fluss)
+  - [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc)
+  - [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator)
+  - [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
   - [apache hudi](https://github.com/apache/hudi)
   - [apache pulsar](https://github.com/apache/pulsar)
   - [apache logging-log4j2](https://github.com/apache/logging-log4j2)
   - [apache inlong](https://github.com/apache/inlong)
   - [pravega](https://github.com/pravega/pravega)
-  - [ray-project](https://github.com/ray-project/ray)
 
 ## Acknowledgements
 My sincere gratitude goes to the mentors and reviewers in the community for their support.
