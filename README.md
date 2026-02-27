@@ -84,6 +84,19 @@ Here are some ideas to get you started:
 - [Apache StreamPark](https://github.com/apache/streampark)
   - The Release Manager for [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
   - [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
+ 
+- Contributor at
+  - [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator)
+  - [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
+  - [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc)
+  - [apache spark](https://github.com/apache/pulsar)
+  - [apache fluss](https://github.com/apache/fluss)
+  - [apache hudi](https://github.com/apache/hudi)
+  - [apache pulsar](https://github.com/apache/pulsar)
+  - [apache logging-log4j2](https://github.com/apache/logging-log4j2)
+  - [apache inlong](https://github.com/apache/inlong)
+  - [pravega](https://github.com/pravega/pravega)
+  - [ray-project](https://github.com/ray-project/ray)
 
 ## Acknowledgements
 My sincere gratitude goes to the mentors and reviewers in the community for their support.
