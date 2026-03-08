@@ -26,10 +26,8 @@
 - Presentation
     - [Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023](https://asia.flink-forward.org/beijing-2023).
 - FLIPs:
-  - [FLIP-239: Port JDBC Connector to FLIP-27&FLIP-143](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
-  - [FLIP-339: Support Adaptive Partition Selection for StreamPartitioner](https://cwiki.apache.org/confluence/x/nYyzDw)
-  - [FLIP-370: Support Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling)
-  - [FLIP-490: Enhanced Job History Retention Policies for HistoryServer​​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
+  - [FLIP-370: Balanced Tasks Scheduling](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling) & [FLIP-339: Adaptive Rebalance/Rescale](https://cwiki.apache.org/confluence/x/nYyzDw)
+  - [FLIP-239: JDBC Connector V2](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271) & [FLIP-490: HistoryServer TTL Based Retention​​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
 - Papers
   - [An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
 
@@ -59,11 +57,11 @@
 <h3 align="center">Contributions to other open source projects</h3>
 
 
-- [ray-project](https://github.com/ray-project/ray) & [apache spark](https://github.com/apache/spark)
-- [apache hudi](https://github.com/apache/hudi)
-- [apache fluss](https://github.com/apache/fluss) & [pravega](https://github.com/pravega/pravega) & [apache pulsar](https://github.com/apache/pulsar)
-- [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) & [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) & [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
-- [apache logging-log4j2](https://github.com/apache/logging-log4j2)
+- AI & Compute: [ray-project](https://github.com/ray-project/ray) & [apache spark](https://github.com/apache/spark)
+- Lake: [apache hudi](https://github.com/apache/hudi)
+- Queue/Stream Store: [apache fluss](https://github.com/apache/fluss) & [pravega](https://github.com/pravega/pravega) & [apache pulsar](https://github.com/apache/pulsar)
+- Flink extension: [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) & [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) & [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
+- Log: [apache logging-log4j2](https://github.com/apache/logging-log4j2)
 
 <h2 align="center">Acknowledgements</h2>
 
