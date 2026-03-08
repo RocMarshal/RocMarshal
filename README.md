@@ -59,17 +59,11 @@
 <h3 align="center">Contributions to other open source projects</h3>
 
 
-- [ray-project](https://github.com/ray-project/ray)
-- [apache spark](https://github.com/apache/pulsar)
-- [apache fluss](https://github.com/apache/fluss)
-- [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc)
-- [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator)
-- [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
+- [ray-project](https://github.com/ray-project/ray) & [apache spark](https://github.com/apache/spark)
 - [apache hudi](https://github.com/apache/hudi)
-- [apache pulsar](https://github.com/apache/pulsar)
+- [apache fluss](https://github.com/apache/fluss) & [pravega](https://github.com/pravega/pravega) & [apache pulsar](https://github.com/apache/pulsar)
+- [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) & [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) & [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
 - [apache logging-log4j2](https://github.com/apache/logging-log4j2)
-- [apache inlong](https://github.com/apache/inlong)
-- [pravega](https://github.com/pravega/pravega)
 
 <h2 align="center">Acknowledgements</h2>
 
