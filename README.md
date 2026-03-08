@@ -36,23 +36,12 @@
   - [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/x/TQr0Ew)
   - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
-<br/>
 
-<!--
-<div align="center">
-    <div>
-      <img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="80" height="70" />
-      <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer
-    </div>
-</div>
--->
 
 <h3 align="center">Apache StreamPark</h3>
 
-- The Release Manager for [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/)
-- [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
+- The Release Manager for [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/) & [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
 
-<br/>
 
 <h3 align="center">Contributions to other open source projects</h3>
 
