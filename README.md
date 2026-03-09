@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RocMarshal)
 
-<h1 align="center">Yuepeng Pan</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuepeng-pan-45692a358/">
