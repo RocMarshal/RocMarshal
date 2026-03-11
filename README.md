@@ -1,5 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RocMarshal)
 
+<div id="github_stats" align="center">
+  <div>
+    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RocMarshal&theme=github" /></a>
+    <a><img src="https://streak-stats.demolab.com?user=RocMarshal&theme=github-light&mode=weekly" alt="GitHub Streak" /></a>
+  </div>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuepeng-pan-45692a358/">
@@ -9,6 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
 
 <h2 align="center">My Journey of Open Source  👋</h2>
