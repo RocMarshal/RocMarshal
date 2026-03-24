@@ -50,9 +50,9 @@
 <h3 align="center">Contributions to other open source projects</h3>
 
 
-- AI & Compute: [ray-project](https://github.com/ray-project/ray) & [apache spark](https://github.com/apache/spark)
+- AI Infra: [vllm-project](https://github.com/vllm-project/vllm) & [ray-project](https://github.com/ray-project/ray)
 - Lake: [apache hudi](https://github.com/apache/hudi)
-- Queue/Stream Store: [apache fluss](https://github.com/apache/fluss) & [pravega](https://github.com/pravega/pravega) & [apache pulsar](https://github.com/apache/pulsar)
+- Queue/Stream Store: [apache fluss](https://github.com/apache/fluss)
 - Flink extension: [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) & [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) & [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
 - Log: [apache logging-log4j2](https://github.com/apache/logging-log4j2)
 
