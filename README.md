@@ -47,14 +47,10 @@
 - The Release Manager for [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/) & [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
 
 
-<h3 align="center">Contributions to other open source projects</h3>
+<h3 align="center">AI Infra projects</h3>
 
-
-- AI Infra: [vllm-project](https://github.com/vllm-project/vllm) & [ray-project](https://github.com/ray-project/ray)
-- Lake: [apache hudi](https://github.com/apache/hudi)
-- Queue/Stream Store: [apache fluss](https://github.com/apache/fluss)
-- Flink extension: [apache flink-connector-jdbc](https://github.com/apache/flink-connector-jdbc) & [apache flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) & [apache flink-benchmarks](https://github.com/apache/flink-benchmarks)
-- Log: [apache logging-log4j2](https://github.com/apache/logging-log4j2)
+- [vllm-project](https://github.com/vllm-project/vllm) contributor.
+- [ray-project](https://github.com/ray-project/ray) contributor.
 
 <h2 align="center">Acknowledgements</h2>
 
