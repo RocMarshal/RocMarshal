@@ -40,6 +40,10 @@
   - [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/x/TQr0Ew)
   - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
+<h3 align="center">AI Infra projects</h3>
+
+- [vllm-project](https://github.com/vllm-project/vllm) contributor.
+- [ray-project](https://github.com/ray-project/ray) contributor.
 
 
 <h3 align="center">Apache StreamPark</h3>
@@ -47,10 +51,7 @@
 - The Release Manager for [2.1.6](https://streampark.apache.org/download/release-note/2.1.6/) & [Contributions](https://github.com/apache/streampark/commits?author=RocMarshal)
 
 
-<h3 align="center">AI Infra projects</h3>
 
-- [vllm-project](https://github.com/vllm-project/vllm) contributor.
-- [ray-project](https://github.com/ray-project/ray) contributor.
 
 <h2 align="center">Acknowledgements</h2>
 
