@@ -31,13 +31,13 @@
 
 - Compeleted
   - Presentation: [Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023](https://asia.flink-forward.org/beijing-2023).
-  - `FLIPs about Runtime`: [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling) & [FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) & [FLIP-490​​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857)
+  - `FLIPs about Runtime`: [FLIP-370](https://cwiki.apache.org/confluence/display/FLINK/FLIP-370%3A+Support+Balanced+Tasks+Scheduling) & [FLIP-339](https://cwiki.apache.org/confluence/x/nYyzDw) & [FLIP-490​​](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=332499857) & [FLIP-495](https://cwiki.apache.org/confluence/x/TQr0Ew)
+
   - `FLIPs about Connectors`: [FLIP-239: JDBC Connector V2](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
   - [An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks](https://doi.org/10.1109/ISCAIT64916.2025.11010314)
 
 - I’m currently working on:
   - [As a release manager for Flink 2.3](https://cwiki.apache.org/confluence/display/FLINK/2.3+Release)
-  - [FLIP-495: Support AdaptiveScheduler record and query the rescale history](https://cwiki.apache.org/confluence/x/TQr0Ew)
   - [FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler](https://cwiki.apache.org/confluence/x/vZCMEw)    
 
 <h3 align="center">AI Infra projects</h3>
