@@ -19,12 +19,6 @@
 </div>
 
 
-<div align="center">
-  <div>
-    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="45" height="21.18"  /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
-    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="66" height="21.18"  /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
-</div>
-</div>
 
 
 
@@ -32,6 +26,14 @@
 <h2 align="center">My Journey of Open Source  👋</h2>
 
 <h3 align="center">Data Infra</h2>
+
+
+<div align="center">
+  <div>
+    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="45" height="21.18"  /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="66" height="21.18"  /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
+</div>
+</div>
 
 - [Apache Flink](https://github.com/apache/flink)
   - Completed [FLIP-239: Port JDBC Connector Source to FLIP-27](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271)
