@@ -21,8 +21,8 @@
 
 <div align="center">
   <div>
-    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="34" height="17" /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div> 
-    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="60" height="15" /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="45" height="21.18"  /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="66" height="21.18"  /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
 </div>
 </div>
 
