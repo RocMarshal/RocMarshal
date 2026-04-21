@@ -30,8 +30,8 @@
 
 <div align="center">
   <div>
-    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="45" height="21.18"  /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
-    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="66" height="21.18"  /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/flink/flink-1_highres.png" width="55" height="21.18"  /> <a href='https://github.com/apache/flink'>Apache Flink</a> Committer</div>
+    <div><img src="https://apache.org/logos/res/streampark/streampark_highres.png" width="90" height="21.18"  /> <a href='https://github.com/apache/streampark'>Apache StreamPark</a> Committer</div>
 </div>
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   <div>
-        <div><img alt="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" src="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" width="80" hight="30" style="visibility: visible;" /> <a href='https://github.com/ray-project/ray'>ray-project/ray</a> Contributor</div>
+        <div><img alt="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" src="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" width="120" hight="40" style="visibility: visible;" /> <a href='https://github.com/ray-project/ray'>ray-project/ray</a> Contributor</div>
 </div>
     <div><img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" width="70" hight="25" style="visibility: visible;"> <a href='https://github.com/vllm-project/vllm'>vllm-project/vllm</a> Contributor</div>
 </div>
