@@ -34,6 +34,9 @@
   <tr>
     <td style=""><a href="https://asia.flink-forward.org/beijing-2023">Presented: Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023</a> </td>
   </tr>
+          <tr>
+    <td style=""><a href="https://doi.org/10.1109/ISCAIT64916.2025.11010314">Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks</a> </td>
+  </tr>
   <tr>
     <td style=""><a href="https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=217386271">FLIP-239: Port JDBC Connector Source to FLIP-27</a> </td>
   </tr>
@@ -51,9 +54,6 @@
   </tr>
   <tr>
     <td style=""><a href="https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler?src=contextnavpagetreemode">FLIP-487: Show history of rescales in Web UI for AdaptiveScheduler</a> </td>
-  </tr>
-  <tr>
-    <td style=""><a href="https://doi.org/10.1109/ISCAIT64916.2025.11010314">Paper: An Intelligent Optimization-Based Load Balancing Scheduling Algorithm for Flink Tasks</a> </td>
   </tr>
       <tr>
     <td>
