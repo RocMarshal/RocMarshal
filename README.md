@@ -16,6 +16,18 @@
 
 <h2 align="center">My Journey of Open Source  👋</h2>
 
+
+
+
+<h3 align="center">AI Infra</h2>
+
+<div align="center">
+  <div>
+        <div><img alt="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" src="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" width="120" hight="40" style="visibility: visible;" /> <a href='https://github.com/ray-project/ray'>ray-project/ray</a> Contributor</div>
+</div>
+    <div><img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" width="70" hight="25" style="visibility: visible;"> <a href='https://github.com/vllm-project/vllm'>vllm-project/vllm</a> Contributor</div>
+</div>
+
 <h3 align="center">Data Infra</h2>
 
 
@@ -79,16 +91,6 @@
 
 
 
-
-
-<h3 align="center">AI Infra</h2>
-
-<div align="center">
-  <div>
-        <div><img alt="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" src="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" width="120" hight="40" style="visibility: visible;" /> <a href='https://github.com/ray-project/ray'>ray-project/ray</a> Contributor</div>
-</div>
-    <div><img alt="vLLM" src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/assets/logos/vllm-logo-text-light.png" width="70" hight="25" style="visibility: visible;"> <a href='https://github.com/vllm-project/vllm'>vllm-project/vllm</a> Contributor</div>
-</div>
 
 <h2></h2>
 
