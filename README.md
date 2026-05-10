@@ -41,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td style=""><a href="https://cwiki.apache.org/confluence/display/FLINK/2.3+Release">As one of Release Managers for Apache Flink 2.3</a> </td>
+    <td style=""><a href="https://cwiki.apache.org/confluence/display/FLINK/2.3+Release">As a Release Managers for Apache Flink 2.3</a> </td>
   </tr>
   <tr>
     <td style=""><a href="https://asia.flink-forward.org/beijing-2023">Presented: Optimizing Flink Usability and Stability at Shopee on Flink Forward Asia 2023</a> </td>
